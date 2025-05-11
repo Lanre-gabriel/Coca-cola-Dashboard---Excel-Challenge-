@@ -1,8 +1,8 @@
 # Coca-cola-Dashboard---Excel-Challenge
 
-This project showcases the process followed to build a professional Excel dashboard as part of a dashboard design challenge from X. 
-Challenges are opportunity to learn, develop and grow.Hence,
-The focus was on process execution, not on deriving business insights.
+This project showcases the process followed to build a professional Excel dashboard as part of a dashboard design challenge from X(Twitter). 
+For me challenges are opportunity to learn, develop and grow.Hence,
+the focus was on process execution, not on deriving business insights.
 
 ## Project Workflow Summary
 
@@ -19,6 +19,12 @@ The focus was on process execution, not on deriving business insights.
 | 9    | Branding                    | Applied Coca-Cola colors via HEX codes                     |
 | 10   | Interactivity               | Added slicers, timeline, and icons                         |
 | 11   | Dashboard Assembly          | Final layout and design setup                              |
+
+---
+
+### Dashboard Preview
+- [Dashboard][Coke_.png]
+
 
 ---
 
@@ -53,5 +59,5 @@ The focus was on process execution, not on deriving business insights.
 
 ---
 
-**Created by:** *[Lanre Gabriel]*  
-**GitHub Portfolio:** [Your GitHub URL]
+## About Me
+
