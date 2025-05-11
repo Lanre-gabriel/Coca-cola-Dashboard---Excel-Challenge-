@@ -1,4 +1,4 @@
-# Coca-cola-Dashboard---Excel-Challenge
+# Coca- Cola-Dashboard---Excel-Challenge
 
 This project showcases the process followed to build a professional Excel dashboard as part of a dashboard design challenge from X(Twitter). 
 For me challenges are opportunity to learn, develop and grow.Hence,
@@ -23,7 +23,7 @@ the focus was on process execution, not on deriving business insights.
 ---
 
 ### Dashboard Preview
-- [Dashboard][Coke_.png]
+- ![Dashboard](Coke_.png)
 
 
 ---
@@ -60,4 +60,5 @@ the focus was on process execution, not on deriving business insights.
 ---
 
 ## About Me
-
+I'm an aspiring data analyst passionate about uncovering business insight through storytelling and dashboard design.
+currently developing my skills with other advance analytics tools  in view.
